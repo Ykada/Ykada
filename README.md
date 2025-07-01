@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on MalembergAI<br><br>🌱 I’m currently learning C#, And Unity<br><br>Contact me YkadaHiroka@gmail.com
+![6b8ac1b3f5593733245b386ff916ff66](https://github.com/user-attachments/assets/0e1b0425-cf1e-401b-94d1-fac86f5fcbd7)
+🔭 I’m currently working on MalembergAI<br><br>🌱 I’m currently learn
+ing C#, And Unity<br><br>Contact me YkadaHiroka@gmail.com
 
 
 ## 🌐 Socials:
