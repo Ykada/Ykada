@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ykada/Ykada/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
