@@ -1,6 +1,8 @@
 <p align="center">Ykada_Hiroka</p>
 
-https://github.com/Ykada/Ykada/blob/main/unknown.png?raw=true
+<img width="1302" height="592" alt="unknown" src="https://github.com/user-attachments/assets/70c4b07b-cc14-41c8-9523-7241e4e427a2" />
+
+<p align="center">☢RE:CLEAN</p>
 
 ###
 
