@@ -12,12 +12,12 @@
 <p align="center">DEVELPER BEHIND ☢RE:CLEAN</p>
 
 ###
-
-### ![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
-
+<div align="center">
+![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
+###</div>
 ###
-
-
+###
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ykada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
