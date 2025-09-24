@@ -2,13 +2,14 @@
 
 ###
 
-<p align="center"></p>
+<p align="center">DEVELPER BEHIND ARC - 82</p>
 
 ###
+<img width="3023" height="1236" alt="image_2025-09-24_204506902" src="https://github.com/user-attachments/assets/61c5a022-32b8-4cd8-9e0c-8de7509e1529" />
 
-<img width="1302" height="592" alt="unknown" src="https://github.com/user-attachments/assets/70c4b07b-cc14-41c8-9523-7241e4e427a2" />
 
-<p align="center">☢RE:CLEAN</p>
+
+<p align="center">DEVELPER BEHIND ☢RE:CLEAN</p>
 
 ###
 
@@ -16,13 +17,6 @@
 
 ###
 
-<p align="center">☢RE:CLEAN</p>
-
-###
-
-<img width="1517" height="531" alt="Schermafbeelding 2025-09-24 203539" src="https://github.com/user-attachments/assets/682c9b30-04a6-4758-bb74-434bd786a513" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ykada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
