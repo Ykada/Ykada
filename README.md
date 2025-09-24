@@ -13,7 +13,7 @@
 
 ###
 
-<center>![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)</center>
+![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
 
 ###
 
