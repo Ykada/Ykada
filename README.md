@@ -1,8 +1,26 @@
 <p align="center">Ykada_Hiroka</p>
 
+###
+
+<p align="center"></p>
+
+###
+
 <img width="1302" height="592" alt="unknown" src="https://github.com/user-attachments/assets/70c4b07b-cc14-41c8-9523-7241e4e427a2" />
 
 <p align="center">☢RE:CLEAN</p>
+
+###
+
+![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
+
+###
+
+<p align="center">☢RE:CLEAN</p>
+
+###
+
+<img width="1517" height="531" alt="Schermafbeelding 2025-09-24 203539" src="https://github.com/user-attachments/assets/682c9b30-04a6-4758-bb74-434bd786a513" />
 
 ###
 
