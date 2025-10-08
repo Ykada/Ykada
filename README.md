@@ -16,7 +16,12 @@
 ![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
 
 ###
+
+<p align="center">DEVELPMENT PROJECT MDS</p>
 ###
+
+<img width="1901" height="957" alt="image" src="https://github.com/user-attachments/assets/bb811209-11d9-494e-97ac-61482e53a9cd" />
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ykada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
