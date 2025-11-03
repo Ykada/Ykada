@@ -1,76 +1,66 @@
-<p align="center">Ykada_Hiroka</p>
-
-###
-
-<p align="center">DEVELPER BEHIND ARC - 82</p>
-
-###
-<img width="3023" height="1236" alt="image_2025-09-24_204506902" src="https://github.com/user-attachments/assets/61c5a022-32b8-4cd8-9e0c-8de7509e1529" />
-
-
-
-<p align="center">DEVELPER BEHIND ☢RE:CLEAN</p>
-
-###
-
-![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/ad7ff910-1d34-4edd-aec2-e391a233c618)
-
-###
-
-<p align="center">DEVELPMENT PROJECT MDS</p>
-
-###
-
-<img width="1901" height="957" alt="image" src="https://github.com/user-attachments/assets/bb811209-11d9-494e-97ac-61482e53a9cd" />
-
-###
-
-<p align="center">OPERTION STORM</p>
-
-###
-
-<p align="center">DEVELPMENT FEED COMMING SOON</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ykada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+# Hi, I’m Ykada
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+
+######
+UI Artist For [ARC-82](#)  
+######
+Developer of [RE:CLEAN](#)
+######
+Creater of [OPERATION STORM](#)
+
+---
+
+### Projects
+
+### ARC - 82  
+A cutting-edge project pushing boundaries.  
+<img width="3023" height="1236" alt="image_2025-09-24_204506902" src="https://github.com/user-attachments/assets/57bacdf9-a4fa-43f9-af2d-7b83dcae99c9" />
+
+### THE HUNT
+A Horror Survival Experience.
+<img width="1302" height="592" alt="unknown" src="https://github.com/user-attachments/assets/f8238e68-24f1-40dd-8786-de4b344bf587" />
+
+
+### RE:CLEAN  
+Innovative Multiplayer Experience for a sustainable future.  
+![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/3d406889-4dbe-46b5-a60b-222a70b50fef)
+
+
+
+### TOWER DEFENCE SIMULATOR
+Work has finnished - Final build is avalible for play  
+<img src="https://github.com/user-attachments/assets/bb811209-11d9-494e-97ac-61482e53a9cd" width="500" alt="MDS Project"/>
+
+---
+
+### Current Focus  
+`OPERATION STORM` — critical developments underway.
+
+<img width="1251" height="459" alt="image" src="https://github.com/user-attachments/assets/361e9aec-3fcd-4b4e-9aa1-ec609fafcbd0" />
+
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ykada&theme=dracula&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ykada&layout=compact&theme=dracula)
+
+---
+
+---
+
+### Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ykada_)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ykada_Hiroka@gmail.com)
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="ykada_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="Ykada_Hiroka@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-
-<div align="right">
-  <img height="1500" src="https://private-user-images.githubusercontent.com/120028703/461217687-2722cecf-15d0-4f42-aa68-c470c02e4d30.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4ODI5ODQsIm5iZiI6MTc1Mzg4MjY4NCwicGF0aCI6Ii8xMjAwMjg3MDMvNDYxMjE3Njg3LTI3MjJjZWNmLTE1ZDAtNGY0Mi1hYTY4LWM0NzBjMDJlNGQzMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDczMFQxMzM4MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjE5NWE2MzU4OTk1NzJhNzA4ZGNlMTBjNWZmOTU4NDc3Yzc2YTRjZjVlMzE1OWMzMzcwN2JiODk0ZThlZWYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hByRYH8LQFJ8GhAl4FqsJB5pOFFrr4vNlGU3iD69i_g"  />
-</div>
-
-###
