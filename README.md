@@ -45,6 +45,8 @@ Work has finnished - Final build is avalible for play
 ### Current Focus  
 `OPERATION STORM` — critical developments underway.
 
+<img width="1648" height="637" alt="image" src="https://github.com/user-attachments/assets/c2c475cf-5103-4fcb-a130-4ddfeb41c297" />
+
 <img width="1251" height="459" alt="image" src="https://github.com/user-attachments/assets/361e9aec-3fcd-4b4e-9aa1-ec609fafcbd0" />
 
 
