@@ -1,6 +1,7 @@
-<div align="center">
 
 # Hi, I’m Ykada
+
+### I’m a front-end game developer, and I create all kinds of projects, ranging from tower defense games to storm chasing games.​
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />  
