@@ -20,25 +20,21 @@
 ## Projects
 
 ### ARC - 82
-A cutting-edge project pushing boundaries.
 ![image_2025-09-24_204506902](https://github.com/user-attachments/assets/57bacdf9-a4fa-43f9-af2d-7b83dcae99c9)
 
 ### THE HUNT
-A Horror Survival Experience.
 ![unknown](https://github.com/user-attachments/assets/f8238e68-24f1-40dd-8786-de4b344bf587)
 
 ### RE:CLEAN
-Innovative Multiplayer Experience for a sustainable future.
 ![471746194-c5d1963a-4d83-4a28-9913-ac92ee5f2954](https://github.com/user-attachments/assets/3d406889-4dbe-46b5-a60b-222a70b50fef)
 
 ### TOWER DEFENCE SIMULATOR
-Work has finished - Final build is available for play.
 ![MDS Project](https://github.com/user-attachments/assets/bb811209-11d9-494e-97ac-61482e53a9cd)
 
 ---
 
 ### Current Focus
-`OPERATION STORM` — critical developments underway.
+`OPERATION STORM`
 ![image](https://github.com/user-attachments/assets/c2c475cf-5103-4fcb-a130-4ddfeb41c297)
 ![image](https://github.com/user-attachments/assets/361e9aec-3fcd-4b4e-9aa1-ec609fafcbd0)
 
